@@ -116,10 +116,10 @@ Interaction Bubbles(Jaxe.Bubbles): Bubbles(4.2.0)
 ```
 
 ## Linkovi
-[ WikiLink] (https://en.wikipedia.org/wiki/User_experience_design)  
-[ PexelsSlika] (https://www.pexels.com/photo/apps-in-window-form-downloaded-in-a-device-7568301/)  
-[ PexelsSlika] (https://www.pexels.com/photo/notebook-beside-the-iphone-on-table-196644/)  
-[ PexelsSlika] (https://www.pexels.com/photo/a-woman-using-virtual-reality-goggles-5207615/) 
+[ WikiLink](https://en.wikipedia.org/wiki/User_experience_design)  
+[ PexelsSlika](https://www.pexels.com/photo/apps-in-window-form-downloaded-in-a-device-7568301/)  
+[ PexelsSlika](https://www.pexels.com/photo/notebook-beside-the-iphone-on-table-196644/)  
+[ PexelsSlika](https://www.pexels.com/photo/a-woman-using-virtual-reality-goggles-5207615/) 
 
 ## Tablica
 | Naziv | Ver | Author | Date | Tech |
