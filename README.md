@@ -71,8 +71,8 @@ User research is the systematic study of target users and their requirements in 
 
 ## Slike
   ![ slika1](images/image1.png)  
-  ![ slika2](images/image2.jpg)  
-  ![ slika3](images/image3.jpg)  
+  ![ slika2](images/image2.png)  
+  ![ slika3](images/image3.png)  
 
 ## Primjer koda  
  ### primjer1
